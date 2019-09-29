@@ -1,5 +1,5 @@
 module.exports = {
-	layout: 'about',
+    layout: 'about',
     children: false,
     fields: [
         {
@@ -14,7 +14,7 @@ module.exports = {
             fieldcontent: 'testing this'
         }
     ]
-};
+}
 
 
 
